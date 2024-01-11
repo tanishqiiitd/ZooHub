@@ -1,5 +1,5 @@
-Welcome to ZooBuddies, the innovative zoo management application that brings the wonders of the animal kingdom to your fingertips.
-ZooBuddies offers a captivating experience for both visitors and administrators.
+Welcome to ZooHub, the innovative zoo management application that brings the wonders of the animal kingdom to your fingertips.
+ZooHub offers a captivating experience for both visitors and administrators.
 
 
 
